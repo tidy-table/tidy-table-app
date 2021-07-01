@@ -1,6 +1,6 @@
 {
-  "name": "mysheets",
-  "productName": "mysheets",
+  "name": "TidyTable",
+  "productName": "TidyTable",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
